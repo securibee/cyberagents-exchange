@@ -1,4 +1,5 @@
 ---
+last_reviewed: 2026-10-22
 name: "PHP2Shell Tenable Skill"
 author: "securibee"
 github_url: "https://github.com/securibee/php2shell-tenable-skill"
